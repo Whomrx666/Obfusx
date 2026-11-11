@@ -2,12 +2,12 @@
 ![obfusx preview](obfusx.jpg)
 
 <p align="center">
-  <strong>Cyberpunk Obfuscator – Overpower Edition</strong><br>
-  <em>"Make your code unreadable. Stay invisible." – Mr.X</em>
+  <strong>Cyberpunk Obfuscator â€“ Overpower Edition</strong><br>
+  <em>"Make your code unreadable. Stay invisible." â€“ Mr.X</em>
 </p>
 
 ## Introduction
-ObfusX v4.0 is a powerful cyberpunk-themed code obfuscator built for **Termux (Android)**, Linux, and any Unix-like environment—**no root required**. It transforms your source code into a heavily obfuscated form using a wide range of encoding techniques, making it extremely difficult for humans to read or understand. Supporting **14 programming and markup languages** and **17+ obfuscation methods**, ObfusX is an essential tool for developers who want to protect their intellectual property or add an extra layer of security to their scripts.
+ObfusX v4.0 is a powerful cyberpunk-themed code obfuscator built for **Termux (Android)**, Linux, and any Unix-like environmentâ€”**no root required**. It transforms your source code into a heavily obfuscated form using a wide range of encoding techniques, making it extremely difficult for humans to read or understand. Supporting **14 programming and markup languages** and **17+ obfuscation methods**, ObfusX is an essential tool for developers who want to protect their intellectual property or add an extra layer of security to their scripts.
 
 ## Installation
 ```bash
@@ -24,13 +24,13 @@ $ python3 obfusx.py
 ```
 
 ## Features
-- **14 Supported Languages** – Python, Bash, PHP, JavaScript, TypeScript, Ruby, Perl, Lua, PowerShell, HTML, CSS, SQL, Batch, VBScript, plus HTML+CSS+JS Inline.
-- **17+ Obfuscation Methods** – Base64, Hex, Reverse, ROT13, URL Encode, HTML Entities, CharCode, Zlib+Base64, Gzip+Base64, XOR+Base64, Caesar, CSS Hex Escape, and combinations like Base64+Reverse, Double Base64, Hex+Reverse.
-- **Inline HTML Obfuscation** – Special mode to obfuscate `<script>` and `<style>` blocks inside HTML files using CharCode or Base64+atob.
-- **Cyberpunk UI** – Neon colors, dynamic borders, centered menus, loading screen, and exit messages.
-- **Termux Optimized** – Works flawlessly on Android without root.
-- **No Dependencies** – Pure Python, uses only built-in modules.
-- **Education Only** – Intended for learning and authorized use.
+- **14 Supported Languages** â€“ Python, Bash, PHP, JavaScript, TypeScript, Ruby, Perl, Lua, PowerShell, HTML, CSS, SQL, Batch, VBScript, plus HTML+CSS+JS Inline.
+- **17+ Obfuscation Methods** â€“ Base64, Hex, Reverse, ROT13, URL Encode, HTML Entities, CharCode, Zlib+Base64, Gzip+Base64, XOR+Base64, Caesar, CSS Hex Escape, and combinations like Base64+Reverse, Double Base64, Hex+Reverse.
+- **Inline HTML Obfuscation** â€“ Special mode to obfuscate `<script>` and `<style>` blocks inside HTML files using CharCode or Base64+atob.
+- **Cyberpunk UI** â€“ Neon colors, dynamic borders, centered menus, loading screen, and exit messages.
+- **Termux Optimized** â€“ Works flawlessly on Android without root.
+- **No Dependencies** â€“ Pure Python, uses only built-in modules.
+- **Education Only** â€“ Intended for learning and authorized use.
 
 ## Supported Languages & Methods
 | Language | Methods |
@@ -53,21 +53,21 @@ $ python3 obfusx.py
 
 ## Menu Options
 After running the tool, you will see a list of languages. Select a language number to proceed. Additional menu options:
-- `[a]` About – View information about the tool
-- `[h]` Help – Display usage instructions
-- `[0]` Exit – Quit the program
+- `[a]` About â€“ View information about the tool
+- `[h]` Help â€“ Display usage instructions
+- `[0]` Exit â€“ Quit the program
 
 When you select a language, you will be presented with all available obfuscation methods for that language. Choose a method, then enter the input and output file paths.
 
 ## Instructions
 1. **Install** the tool using the commands above.
 2. **Run** `python3 obfusx.py` to start.
-3. **Select a language** – e.g., Python, Bash, PHP, etc.
-4. **Choose an obfuscation method** – e.g., base64, hex, reverse, etc.
-5. **Enter input file path** – The source code file you want to obfuscate.
-6. **Enter output file path** – Where the obfuscated code will be saved (leave empty for automatic naming).
-7. **For HTML+CSS+JS Inline** – Select option `14` and choose the JavaScript obfuscation method (CharCode or Base64+atob).
-8. **View the result** – The obfuscated code will be written to the output file.
+3. **Select a language** â€“ e.g., Python, Bash, PHP, etc.
+4. **Choose an obfuscation method** â€“ e.g., base64, hex, reverse, etc.
+5. **Enter input file path** â€“ The source code file you want to obfuscate.
+6. **Enter output file path** â€“ Where the obfuscated code will be saved (leave empty for automatic naming).
+7. **For HTML+CSS+JS Inline** â€“ Select option `14` and choose the JavaScript obfuscation method (CharCode or Base64+atob).
+8. **View the result** â€“ The obfuscated code will be written to the output file.
 
 ## Observation
 This tool is intended for **educational and authorized use only**. Obfuscation does not provide absolute security and can be reversed with enough effort. The author is not responsible for any misuse or damage caused by this tool. Always ensure you have the rights to modify and distribute the code you obfuscate.
@@ -79,16 +79,16 @@ This tool is intended for **educational and authorized use only**. Obfuscation d
 
 ## CONNECT WITH ME :
 
-[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrx.pages.dev)
-[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)
-[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)
-[![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)
+[![Website](https://img.shields.io/badge/WEBSITE-VISIT-red?style=for-the-badge&logo=google-chrome)](https://whomrx.pages.dev)<br>
+[![Blog](https://img.shields.io/badge/BLOG-VISIT-red?style=for-the-badge&logo=blogger)](https://whomrxhackers.blogspot.com)<br>
+[![Twitter](https://img.shields.io/badge/TWITTER-FOLLOW-red?style=for-the-badge&logo=x)](https://twitter.com/whomrx666)<br>
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-CHATME-red?style=for-the-badge&logo=whatsapp)](https://wa.me/6285926601133?text=Halo%2C%20Mr.X)<br>
+[![Facebook](https://img.shields.io/badge/FACEBOOK-LIKE-red?style=for-the-badge&logo=facebook)](https://www.facebook.com/whomrx.666)<br>
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CONNECT-red?style=for-the-badge&logo=telegram)](https://t.me/Whomr_X)<br>
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-red?style=for-the-badge&logo=gmail)](mailto:whomrx666@gmail.com)<br>
+[![TikTok](https://img.shields.io/badge/TIKTOK-FOLLOW-red?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@whomr.x)<br>
 
-**If you want to donate, click on the button**
+**If you want to donate, click on the button**<br>
 <a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-ObfusX-yellow?style=for-the-badge&logo=github"></a>
 
 ---
